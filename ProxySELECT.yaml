@@ -1,52 +1,50 @@
 payload:
 ##自用规则
-- DOMAIN-SUFFIX,uptodown.app
-- DOMAIN-SUFFIX,bing.com
-- DOMAIN-SUFFIX,navix.site
-- DOMAIN-SUFFIX,allencj.com
-- DOMAIN-SUFFIX,fc2ppvdb.com
-- DOMAIN-SUFFIX,qichiyu.com
-- DOMAIN-SUFFIX,shuzijumin.com
-- DOMAIN-SUFFIX,yahoo.com
-- DOMAIN-SUFFIX,tw
-- DOMAIN-SUFFIX,pages.dev
+  - '+.uptodown.app'
+  - '+.bing.com'
+  - '+.navix.site'
+  - '+.allencj.com'
+  - '+.fc2ppvdb.com'
+  - '+.qichiyu.com'
+  - '+.shuzijumin.com'
+  - '+.yahoo.com'
+  - '+.tw'
+  - '+.pages.dev'
 ##apple
-- DOMAIN-SUFFIX,podcasts.apple.com
+  - '+.podcasts.apple.com'
 ##博客
-- DOMAIN-SUFFIX,conraaad.com
+  - '+.conraaad.com'
 ##登dua郎
-- DOMAIN-SUFFIX,javdb561.com
-- DOMAIN-SUFFIX,xasiat.com
-- DOMAIN-SUFFIX,fikfap.com
-- DOMAIN-KEYWORD,missav
-- DOMAIN-KEYWORD,thisav
-- DOMAIN-SUFFIX,91md.me
-- DOMAIN-KEYWORD,123av
-- DOMAIN-SUFFIX,txh049.com
-- DOMAIN-SUFFIX,51cg1.com
-- DOMAIN-SUFFIX,sexynudes.tv
-- DOMAIN-SUFFIX,njavtv.com
-- DOMAIN-SUFFIX,xsijishe.com
-- DOMAIN-SUFFIX,xsijishe.net
-- DOMAIN-SUFFIX,sjs47.com
-- DOMAIN-SUFFIX,leagueoflegends.com
+  - '+.javdb561.com'
+  - '+.xasiat.com'
+  - '+.fikfap.com'
+  - '+.91md.me'
+  - '+.- DOMAIN-KEYWORD,123av'
+  - '+.txh049.com'
+  - '+.51cg1.com'
+  - '+.sexynudes.tv'
+  - '+.njavtv.com'
+  - '+.xsijishe.com'
+  - '+.xsijishe.net'
+  - '+.sjs47.com'
+  - '+.leagueoflegends.com'
 ##机场
-- DOMAIN-SUFFIX,mifjun.com
-- DOMAIN-SUFFIX,yst.onl
-- DOMAIN-SUFFIX,性价比机场.com
-- DOMAIN-SUFFIX,wcloud.store
-- DOMAIN-SUFFIX,vvvv.ee
-- DOMAIN-SUFFIX,wjkc.lol
-- DOMAIN-SUFFIX,yuntu.pro
-- DOMAIN-SUFFIX,lustar.xyz
-- DOMAIN-SUFFIX,ktmcloud.vip
-- DOMAIN-SUFFIX,三毛机场.com
-- DOMAIN-SUFFIX,ss-id.com
-- DOMAIN-SUFFIX,lajichang.cc
-- DOMAIN-SUFFIX,一分机场.com
-- DOMAIN-SUFFIX,69yun69.com
-- DOMAIN-SUFFIX,xn--mes358aby2apfg.com
-- DOMAIN-SUFFIX,mojie.best
-- DOMAIN-SUFFIX,xn--4gq62f52gdss.com
-- DOMAIN-SUFFIX,极速机场.com
-- DOMAIN-SUFFIX,bajie.one
+  - '+.mifjun.com'
+  - '+.yst.onl'
+  - '+.性价比机场.com'
+  - '+.wcloud.store'
+  - '+.vvvv.ee'
+  - '+.wjkc.lol'
+  - '+.yuntu.pro'
+  - '+.lustar.xyz'
+  - '+.ktmcloud.vip'
+  - '+.三毛机场.com'
+  - '+.ss-id.com'
+  - '+.lajichang.cc'
+  - '+.一分机场.com'
+  - '+.69yun69.com'
+  - '+.xn--mes358aby2apfg.com'
+  - '+.mojie.best'
+  - '+.xn--4gq62f52gdss.com'
+  - '+.极速机场.com'
+  - '+.bajie.one'
