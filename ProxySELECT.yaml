@@ -10,6 +10,7 @@ payload:
   - DOMAIN,yahoo.com
   - DOMAIN,tw
   - DOMAIN,pages.dev
+  - DOMAIN,leagueoflegends.com
 ##apple
   - DOMAIN,podcasts.apple.com
 ##博客
@@ -25,8 +26,8 @@ payload:
   - DOMAIN,sexynudes.tv
   - DOMAIN-KEYWORD,xsijishe
   - DOMAIN-KEYWORD,sjs
+  - DOMAIN-KEYWORD,thisav
   - DOMAIN,njavtv.com
-  - DOMAIN,leagueoflegends.com
 ##机场
   - DOMAIN,mifjun.com
   - DOMAIN,yst.onl
