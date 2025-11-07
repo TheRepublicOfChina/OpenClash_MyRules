@@ -1,5 +1,7 @@
 payload:
 ##自用规则
+linux.do
+  - DOMAIN,linux.do
   - DOMAIN,uptodown.app
   - DOMAIN,bing.com
   - DOMAIN,navix.site
