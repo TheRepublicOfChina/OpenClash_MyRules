@@ -1,6 +1,6 @@
 payload:
 ##自用规则
-linux.do
+  - DOMAIN,lxc.wiki
   - DOMAIN,linux.do
   - DOMAIN,uptodown.app
   - DOMAIN,bing.com
