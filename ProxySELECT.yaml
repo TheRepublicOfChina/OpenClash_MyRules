@@ -1,55 +1,56 @@
 payload:
 ##自用规则
   - DOMAIN-SUFFIX,lxc.wiki
-  - DOMAIN,linux.do
-  - DOMAIN,uptodown.app
-  - DOMAIN,bing.com
-  - DOMAIN,navix.site
-  - DOMAIN,allencj.com
-  - DOMAIN,fc2ppvdb.com
-  - DOMAIN,qichiyu.com
-  - DOMAIN,shuzijumin.com
-  - DOMAIN,yahoo.com
-  - DOMAIN,tw
-  - DOMAIN,pages.dev
-  - DOMAIN,leagueoflegends.com
+  - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,uptodown.app
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,navix.site
+  - DOMAIN-SUFFIX,allencj.com
+  - DOMAIN-SUFFIX,fc2ppvdb.com
+  - DOMAIN-SUFFIX,qichiyu.com
+  - DOMAIN-SUFFIX,shuzijumin.com
+  - DOMAIN-SUFFIX,yahoo.com
+  - DOMAIN-SUFFIX,tw
+  - DOMAIN-SUFFIX,pages.dev
+  - DOMAIN-SUFFIX,leagueoflegends.com
 ##apple
-  - DOMAIN,podcasts.apple.com
+  - DOMAIN-SUFFIX,podcasts.apple.com
 ##博客
-  - DOMAIN,conraaad.com
+  - DOMAIN-SUFFIX,conraaad.com
 ##登dua郎
-  - DOMAIN,mrjav.net
-  - DOMAIN,x1hub.com
-  - DOMAIN,njavtv.com
-  - DOMAIN,javdb561.com
-  - DOMAIN,xasiat.com
-  - DOMAIN,fikfap.com
-  - DOMAIN,91md.me
-  - DOMAIN,txh049.com
-  - DOMAIN,51cg1.com
-  - DOMAIN,sexynudes.tv
+  - DOMAIN-SUFFIX,tgstat.com
+  - DOMAIN-SUFFIX,mrjav.net
+  - DOMAIN-SUFFIX,x1hub.com
+  - DOMAIN-SUFFIX,njavtv.com
+  - DOMAIN-SUFFIX,javdb561.com
+  - DOMAIN-SUFFIX,xasiat.com
+  - DOMAIN-SUFFIX,fikfap.com
+  - DOMAIN-SUFFIX,91md.me
+  - DOMAIN-SUFFIX,txh049.com
+  - DOMAIN-SUFFIX,51cg1.com
+  - DOMAIN-SUFFIX,sexynudes.tv
   - DOMAIN-KEYWORD,xsijishe
   - DOMAIN-KEYWORD,sjs
   - DOMAIN-KEYWORD,thisav
   - DOMAIN-KEYWORD,missav
   - DOMAIN-KEYWORD,123av
 ##机场
-  - DOMAIN,mifjun.com
-  - DOMAIN,yst.onl
-  - DOMAIN,性价比机场.com
-  - DOMAIN,wcloud.store
-  - DOMAIN,vvvv.ee
-  - DOMAIN,wjkc.lol
-  - DOMAIN,yuntu.pro
-  - DOMAIN,lustar.xyz
-  - DOMAIN,ktmcloud.vip
-  - DOMAIN,xn--ehqx7tcnnope.com
-  - DOMAIN,ss-id.com
-  - DOMAIN,lajichang.cc
-  - DOMAIN,一分机场.com
-  - DOMAIN,69yun69.com
-  - DOMAIN,xn--mes358aby2apfg.com
-  - DOMAIN,mojie.best
-  - DOMAIN,xn--4gq62f52gdss.com
-  - DOMAIN,极速机场.com
-  - DOMAIN,bajie.one
+  - DOMAIN-SUFFIX,mifjun.com
+  - DOMAIN-SUFFIX,yst.onl
+  - DOMAIN-SUFFIX,性价比机场.com
+  - DOMAIN-SUFFIX,wcloud.store
+  - DOMAIN-SUFFIX,vvvv.ee
+  - DOMAIN-SUFFIX,wjkc.lol
+  - DOMAIN-SUFFIX,yuntu.pro
+  - DOMAIN-SUFFIX,lustar.xyz
+  - DOMAIN-SUFFIX,ktmcloud.vip
+  - DOMAIN-SUFFIX,xn--ehqx7tcnnope.com
+  - DOMAIN-SUFFIX,ss-id.com
+  - DOMAIN-SUFFIX,lajichang.cc
+  - DOMAIN-SUFFIX,一分机场.com
+  - DOMAIN-SUFFIX,69yun69.com
+  - DOMAIN-SUFFIX,xn--mes358aby2apfg.com
+  - DOMAIN-SUFFIX,mojie.best
+  - DOMAIN-SUFFIX,xn--4gq62f52gdss.com
+  - DOMAIN-SUFFIX,极速机场.com
+  - DOMAIN-SUFFIX,bajie.one
