@@ -1,5 +1,6 @@
 payload:
 ##自用规则
+  - DOMAIN-SUFFIX,naixi.net
   - DOMAIN-SUFFIX,lxc.wiki
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,uptodown.app
