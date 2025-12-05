@@ -1,15 +1,9 @@
 payload:
-  - DOMAIN-SUFFIX,login.live.com
-  - DOMAIN-SUFFIX,aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com
-  - DOMAIN-SUFFIX,api.edgeoffer.microsoft.com
-  - DOMAIN-SUFFIX,arc.msn.com
-  - DOMAIN-SUFFIX,assets.msn.com
-  - DOMAIN-SUFFIX,browser.events.data.msn.com
-  - DOMAIN-SUFFIX,edge.microsoft.com
-  - DOMAIN-SUFFIX,graph.microsoft.com
-  - DOMAIN-SUFFIX,mobile.events.data.microsoft.com
-  - DOMAIN-SUFFIX,ntp.msn.com
-  - DOMAIN-SUFFIX,prod.rewardsplatform.microsoft.com
-  - DOMAIN-SUFFIX,substrate.office.com
-  - DOMAIN-SUFFIX,www.bing.com
-  - DOMAIN-SUFFIX,www.bingapis.com
+  - IP-CIDR,31.13.68.169/32,no-resolve
+  - IP-CIDR,58.254.137.162/32,no-resolve
+  - IP-CIDR,142.250.69.174/32,no-resolve
+  - IP-CIDR,48.210.190.78/32,no-resolve
+  - IP-CIDR,142.250.73.74/32,no-resolve
+  - IP-CIDR,224.0.0.251/32,no-resolve
+  - IP-CIDR,211.97.84.139/32,no-resolve
+  - IP-CIDR,20.42.73.28/32,no-resolve
