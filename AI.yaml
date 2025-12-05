@@ -33,10 +33,24 @@ payload:
   # === Microsoft / Copilot / Bing ===
   - DOMAIN,api.githubcopilot.com
   - DOMAIN,copilot-proxy.githubusercontent.com
-  - DOMAIN,sydney.bing.com
-  - DOMAIN-SUFFIX,copilot.cloud.microsoft
   - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN-SUFFIX,copilot.cloud.microsoft
   - DOMAIN-SUFFIX,ai.azure.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,events.data.microsoft.com
+  - DOMAIN-SUFFIX,smartscreen.microsoft.com
+
+  # === Microsoft 登录 / 身份验证 ===
+  - DOMAIN-SUFFIX,login.microsoftonline.com
+  - DOMAIN-SUFFIX,account.microsoft.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,msauth.net
+  - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,msftauthimages.net
 
   # === Groq ===
   - DOMAIN,api.groq.com
