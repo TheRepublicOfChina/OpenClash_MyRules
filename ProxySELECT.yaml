@@ -1,6 +1,7 @@
 payload:
 ##自用规则
 #  - DOMAIN-SUFFIX,naixi.net
+  - DOMAIN-SUFFIX,1lou.me
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,lxc.wiki
   - DOMAIN-SUFFIX,linux.do
