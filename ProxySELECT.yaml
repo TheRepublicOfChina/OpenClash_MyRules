@@ -1,6 +1,5 @@
 payload:
 ##自用规则
-#  - DOMAIN-SUFFIX,naixi.net
   - DOMAIN-SUFFIX,1lou.me
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,lxc.wiki
@@ -13,7 +12,6 @@ payload:
   - DOMAIN-SUFFIX,qichiyu.com
   - DOMAIN-SUFFIX,shuzijumin.com
   - DOMAIN-SUFFIX,yahoo.com
-  - DOMAIN-SUFFIX,tw
   - DOMAIN-SUFFIX,pages.dev
   - DOMAIN-SUFFIX,leagueoflegends.com
 ##apple
