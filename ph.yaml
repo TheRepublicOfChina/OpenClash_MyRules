@@ -7,3 +7,7 @@ payload:
   - IP-CIDR,3.173.238.35/32,no-resolve
   - IP-CIDR,221.150.191.95/32,no-resolve
   - IP-CIDR,221.150.191.17/32,no-resolve
+  - DOMAIN-SUFFIX,cfph.onstove.com
+  - DOMAIN-SUFFIX,server.apxor.com
+  - DOMAIN-SUFFIX,mynt.xyz
+  - DOMAIN-SUFFIX,gcash.com
