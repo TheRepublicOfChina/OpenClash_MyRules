@@ -1,12 +1,4 @@
 payload:
-- IP-CIDR,3.164.121.56/32,no-resolve
-- IP-CIDR,18.172.50.101/32,no-resolve
-- IP-CIDR,3.166.244.9/32,no-resolve
-- IP-CIDR,2.16.10.72/32,no-resolve
-- IP-CIDR,44.246.158.148/32,no-resolve
-- IP-CIDR,3.173.238.35/32,no-resolve
-- IP-CIDR,221.150.191.95/32,no-resolve
-- IP-CIDR,221.150.191.17/32,no-resolve
 - DOMAIN-SUFFIX,cfph.onstove.com
 - DOMAIN-SUFFIX,server.apxor.com
 - DOMAIN-SUFFIX,mynt.xyz
@@ -21,3 +13,18 @@ payload:
 - IP-CIDR,3.170.244.27/32,no-resolve
 - IP-CIDR,44.239.25.150/32,no-resolve
 - IP-CIDR,3.170.244.223/32,no-resolve
+- IP-CIDR,18.64.122.51/32,no-resolve
+- IP-CIDR,198.18.25.157/32,no-resolve
+- IP-CIDR,44.253.232.82/32,no-resolve
+- IP-CIDR,3.170.249.129/32,no-resolve
+- IP-CIDR,2.16.168.200/32,no-resolve
+- IP-CIDR,3.170.244.17/32,no-resolve
+- IP-CIDR,3.173.238.2/32,no-resolve
+- IP-CIDR,3.164.121.56/32,no-resolve
+- IP-CIDR,18.172.50.101/32,no-resolve
+- IP-CIDR,3.166.244.9/32,no-resolve
+- IP-CIDR,2.16.10.72/32,no-resolve
+- IP-CIDR,44.246.158.148/32,no-resolve
+- IP-CIDR,3.173.238.35/32,no-resolve
+- IP-CIDR,221.150.191.95/32,no-resolve
+- IP-CIDR,221.150.191.17/32,no-resolve
