@@ -3,7 +3,6 @@ payload:
 - DOMAIN-SUFFIX,server.apxor.com
 - DOMAIN-SUFFIX,mynt.xyz
 - DOMAIN-SUFFIX,gcash.com
-- DOMAIN-SUFFIX,onstove.com
 - IP-CIDR,3.173.238.31/32,no-resolve
 - IP-CIDR,18.64.122.82/32,no-resolve
 - IP-CIDR,2.16.168.202/32,no-resolve
@@ -14,7 +13,6 @@ payload:
 - IP-CIDR,44.239.25.150/32,no-resolve
 - IP-CIDR,3.170.244.223/32,no-resolve
 - IP-CIDR,18.64.122.51/32,no-resolve
-- IP-CIDR,198.18.25.157/32,no-resolve
 - IP-CIDR,44.253.232.82/32,no-resolve
 - IP-CIDR,3.170.249.129/32,no-resolve
 - IP-CIDR,2.16.168.200/32,no-resolve
@@ -28,3 +26,4 @@ payload:
 - IP-CIDR,3.173.238.35/32,no-resolve
 - IP-CIDR,221.150.191.95/32,no-resolve
 - IP-CIDR,221.150.191.17/32,no-resolve
+- IP-CIDR,43.159.24.254/32,no-resolve
