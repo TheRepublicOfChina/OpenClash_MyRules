@@ -1,5 +1,6 @@
 payload:
 ##自用规则
+  - DOMAIN-SUFFIX,webshare.io
   - DOMAIN-SUFFIX,1lou.me
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,lxc.wiki
