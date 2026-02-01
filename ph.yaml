@@ -1,4 +1,5 @@
 payload:
+- IP-CIDR,185.209.85.222/32,no-resolve
 - DOMAIN-SUFFIX,onstove.com
 - DOMAIN-SUFFIX,server.apxor.com
 - DOMAIN-SUFFIX,mynt.xyz
