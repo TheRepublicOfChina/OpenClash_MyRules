@@ -1,5 +1,6 @@
 payload:
 ##自用规则
+  - DOMAIN-SUFFIX,freedom.org
   - DOMAIN-SUFFIX,keeflys.com
   - DOMAIN-SUFFIX,webshare.io
   - DOMAIN-SUFFIX,1lou.me
