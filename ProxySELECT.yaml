@@ -1,5 +1,6 @@
 payload:
 ##自用规则
+  - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,hdhive.com
   - DOMAIN-SUFFIX,haodoo.net
   - DOMAIN-SUFFIX,freedom.org
