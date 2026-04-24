@@ -2,6 +2,7 @@ payload:
 ##自用规则
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,rust-lang.org
+  - DOMAIN-SUFFIX,ruby-lang.org
   - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,hdhive.com
   - DOMAIN-SUFFIX,haodoo.net
