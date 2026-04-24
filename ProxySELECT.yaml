@@ -1,5 +1,6 @@
 payload:
 ##自用规则
+  - DOMAIN-SUFFIX,yahoo.net
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,static.rust-lang.org
   - DOMAIN-SUFFIX,cache.ruby-lang.org
