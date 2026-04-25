@@ -1,5 +1,7 @@
 payload:
 ##自用规则
+  - DOMAIN-SUFFIX,mirror.ossplanet.net
+  - DOMAIN-SUFFIX,cdn.kernel.org
   - DOMAIN-SUFFIX,yahoo.net
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,static.rust-lang.org
