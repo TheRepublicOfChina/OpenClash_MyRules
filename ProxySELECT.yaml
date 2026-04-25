@@ -1,12 +1,13 @@
 payload:
-##自用规则
+##编译
   - DOMAIN-SUFFIX,mirror.ossplanet.net
   - DOMAIN-SUFFIX,cdn.kernel.org
-  - DOMAIN-SUFFIX,yahoo.net
-  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,static.rust-lang.org
   - DOMAIN-SUFFIX,cache.ruby-lang.org
-  - DOMAIN-SUFFIX,openwrt.org
+##自用规则
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,yahoo.net
   - DOMAIN-SUFFIX,hdhive.com
   - DOMAIN-SUFFIX,haodoo.net
   - DOMAIN-SUFFIX,freedom.org
@@ -15,23 +16,21 @@ payload:
   - DOMAIN-SUFFIX,1lou.me
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,lxc.wiki
-  - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,uptodown.app
   - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,navix.site
   - DOMAIN-SUFFIX,allencj.com
-  - DOMAIN-SUFFIX,fc2ppvdb.com
   - DOMAIN-SUFFIX,qichiyu.com
   - DOMAIN-SUFFIX,shuzijumin.com
   - DOMAIN-SUFFIX,yahoo.com
-  - DOMAIN-SUFFIX,pages.dev
   - DOMAIN-SUFFIX,leagueoflegends.com
-  - DOMAIN-SUFFIX,ffqla.net
 ##apple
   - DOMAIN-SUFFIX,podcasts.apple.com
-##博客
+##博客论
+  - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,ffqla.net
   - DOMAIN-SUFFIX,conraaad.com
 ##登dua郎
+  - DOMAIN-SUFFIX,fc2ppvdb.com
   - DOMAIN-SUFFIX,myfans.jp
   - DOMAIN-SUFFIX,tgstat.com
   - DOMAIN-SUFFIX,mrjav.net
