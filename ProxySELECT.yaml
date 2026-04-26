@@ -1,5 +1,7 @@
 payload:
 ##编译
+  - DOMAIN-SUFFIX,downloads.sourceforge.net
+  - DOMAIN-SUFFIX,dl.sourceforge.net
   - DOMAIN-SUFFIX,mirror.ossplanet.net
   - DOMAIN-SUFFIX,cdn.kernel.org
   - DOMAIN-SUFFIX,githubusercontent.com
