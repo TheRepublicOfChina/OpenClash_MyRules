@@ -1,5 +1,6 @@
 payload:
 ##编译
+  - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,downloads.sourceforge.net
   - DOMAIN-SUFFIX,dl.sourceforge.net
   - DOMAIN-SUFFIX,mirror.ossplanet.net
