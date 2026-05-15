@@ -26,10 +26,10 @@ payload:
   - DOMAIN-SUFFIX,shuzijumin.com
   - DOMAIN-SUFFIX,yahoo.com
   - DOMAIN-SUFFIX,leagueoflegends.com
-##apple
   - DOMAIN-SUFFIX,podcasts.apple.com
-##博客论
+  - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,v2rayssr.com
   - DOMAIN-SUFFIX,ffqla.net
   - DOMAIN-SUFFIX,conraaad.com
 ##登dua郎
