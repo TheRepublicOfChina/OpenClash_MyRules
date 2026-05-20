@@ -53,6 +53,7 @@ payload:
   - DOMAIN-KEYWORD,missav
   - DOMAIN-KEYWORD,123av
 ##机场
+  - DOMAIN-SUFFIX,xn--9kqz23b19z.com
   - DOMAIN-SUFFIX,kcyun.vip
   - DOMAIN-SUFFIX,mifjun.com
   - DOMAIN-SUFFIX,yst.onl
