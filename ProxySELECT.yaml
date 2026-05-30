@@ -1,5 +1,6 @@
 payload:
 ##编译
+  - DOMAIN-SUFFIX,sourceware.org
   - DOMAIN-SUFFIX,archives.boost.io
   - DOMAIN-SUFFIX,cdn.openwrt.org
   - DOMAIN-SUFFIX,ftp.denx.de
