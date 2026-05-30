@@ -1,5 +1,6 @@
 payload:
 ##编译
+  - DOMAIN-SUFFIX,savannah.nongnu.org
   - DOMAIN-SUFFIX,sourceware.org
   - DOMAIN-SUFFIX,archives.boost.io
   - DOMAIN-SUFFIX,cdn.openwrt.org
