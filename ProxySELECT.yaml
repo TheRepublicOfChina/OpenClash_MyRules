@@ -1,19 +1,6 @@
 payload:
-##编译
-  - DOMAIN-SUFFIX,savannah.nongnu.org
-  - DOMAIN-SUFFIX,sourceware.org
-  - DOMAIN-SUFFIX,archives.boost.io
-  - DOMAIN-SUFFIX,cdn.openwrt.org
-  - DOMAIN-SUFFIX,ftp.denx.de
-  - DOMAIN-SUFFIX,python.org
-  - DOMAIN-SUFFIX,downloads.sourceforge.net
-  - DOMAIN-SUFFIX,dl.sourceforge.net
-  - DOMAIN-SUFFIX,mirror.ossplanet.net
-  - DOMAIN-SUFFIX,cdn.kernel.org
-  - DOMAIN-SUFFIX,githubusercontent.com
-  - DOMAIN-SUFFIX,static.rust-lang.org
-  - DOMAIN-SUFFIX,cache.ruby-lang.org
 ##自用规则
+  - DOMAIN-SUFFIX,user.pickpackapp.com
   - DOMAIN-SUFFIX,shlii.io
   - DOMAIN-KEYWORD,ani.sidestore
   - DOMAIN-SUFFIX,naixi.net
@@ -41,6 +28,20 @@ payload:
   - DOMAIN-SUFFIX,v2rayssr.com
   - DOMAIN-SUFFIX,ffqla.net
   - DOMAIN-SUFFIX,conraaad.com
+##编译
+  - DOMAIN-SUFFIX,savannah.nongnu.org
+  - DOMAIN-SUFFIX,sourceware.org
+  - DOMAIN-SUFFIX,archives.boost.io
+  - DOMAIN-SUFFIX,cdn.openwrt.org
+  - DOMAIN-SUFFIX,ftp.denx.de
+  - DOMAIN-SUFFIX,python.org
+  - DOMAIN-SUFFIX,downloads.sourceforge.net
+  - DOMAIN-SUFFIX,dl.sourceforge.net
+  - DOMAIN-SUFFIX,mirror.ossplanet.net
+  - DOMAIN-SUFFIX,cdn.kernel.org
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,static.rust-lang.org
+  - DOMAIN-SUFFIX,cache.ruby-lang.org
 ##登dua郎
   - DOMAIN-SUFFIX,fc2ppvdb.com
   - DOMAIN-SUFFIX,myfans.jp
