@@ -1,6 +1,6 @@
 payload:
 ##自用规则
-  - DOMAIN-SUFFIX,user.pickpackapp.com
+  - DOMAIN-SUFFIX,pickpackapp.com
   - DOMAIN-SUFFIX,shlii.io
   - DOMAIN-KEYWORD,ani.sidestore
   - DOMAIN-SUFFIX,naixi.net
