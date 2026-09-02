@@ -42,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,static.rust-lang.org
   - DOMAIN-SUFFIX,cache.ruby-lang.org
 ##登dua郎
+  - DOMAIN-SUFFIX,kanav.ad
   - DOMAIN-SUFFIX,hjd2048.com
   - DOMAIN-SUFFIX,fc2ppvdb.com
   - DOMAIN-SUFFIX,myfans.jp
