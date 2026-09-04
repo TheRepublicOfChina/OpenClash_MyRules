@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,ffqla.net
   - DOMAIN-SUFFIX,conraaad.com
 ##编译
+  - DOMAIN-SUFFIX,ftp.gwdg.de
   - DOMAIN-SUFFIX,savannah.nongnu.org
   - DOMAIN-SUFFIX,sourceware.org
   - DOMAIN-SUFFIX,archives.boost.io
