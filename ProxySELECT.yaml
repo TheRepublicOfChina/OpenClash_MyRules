@@ -1,5 +1,6 @@
 payload:
 ##自用规则
+  - DOMAIN-SUFFIX,ermao.net
   - DOMAIN-SUFFIX,pickpackapp.com
   - DOMAIN-SUFFIX,shlii.io
   - DOMAIN-KEYWORD,ani.sidestore
