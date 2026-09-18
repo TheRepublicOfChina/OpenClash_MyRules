@@ -2,7 +2,6 @@ payload:
 ##自用规则
   - DOMAIN-SUFFIX,ermao.net
   - DOMAIN-SUFFIX,pickpackapp.com
-  - DOMAIN-SUFFIX,shlii.io
   - DOMAIN-KEYWORD,ani.sidestore
   - DOMAIN-SUFFIX,naixi.net
   - DOMAIN-SUFFIX,apps.apple.com
@@ -66,6 +65,8 @@ payload:
   - DOMAIN-KEYWORD,missav
   - DOMAIN-KEYWORD,123av
 ##机场
+  - DOMAIN-SUFFIX,lazycat.wiki
+  - DOMAIN-SUFFIX,shlii.io
   - DOMAIN-SUFFIX,xn--9kqz23b19z.com
   - DOMAIN-SUFFIX,kcyun.vip
   - DOMAIN-SUFFIX,mifjun.com
