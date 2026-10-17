@@ -6,7 +6,6 @@ payload:
   - DOMAIN-KEYWORD,ani.sidestore
   - DOMAIN-SUFFIX,naixi.net
   - DOMAIN-SUFFIX,apps.apple.com
-  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,yahoo.net
   - DOMAIN-SUFFIX,hdhive.com
   - DOMAIN-SUFFIX,haodoo.net
